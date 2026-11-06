@@ -5,14 +5,14 @@ POST {{api}}/api/auth/register
 Content-Type: application/json
 
 {
-  "email": "teste@fitnutri.com",
-  "password": "FitNutri@12345"
+  "email": "",
+  "password": ""
 }
 ### Login
 POST {{api}}/api/auth/login
 Content-Type: application/json
 
 {
-  "email": "teste@fitnutri.com",
-  "password": "FitNutri@12345"
+  "email": "",
+  "password": ""
 }
